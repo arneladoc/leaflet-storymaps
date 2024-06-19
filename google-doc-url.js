@@ -1,5 +1,5 @@
 // paste in your published Google Sheets URL from the browser address bar
-// data stored in csv folder on GitHub, not Google Sheets
-var googleDocURL = null;
+
+var googleDocURL = 'https://docs.google.com/spreadsheets/d/1BM6Ar4QTCRBN9HSxyBvOds0Sc9ev9ll5MpzZpibT6ko/edit?gid=0#gid=0';
 // insert your own Google Sheets API key from https://console.developers.google.com
 var googleApiKey = 'AIzaSyAtJarj0kmrj8KxD8kHrTjwhsEMiCTwJ94';
